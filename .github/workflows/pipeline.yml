@@ -1,0 +1,12 @@
+name: Esteira pull request
+run-name: Esteira pull request
+on: [push]
+
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Iniciando automação."
+      - run: echo "Automação em andamento. Por favor, aguarde."
+      - run: echo "Processo concluído."
+     #Dupla: Mateus Silva Perez e Matheus de Almeida Silva

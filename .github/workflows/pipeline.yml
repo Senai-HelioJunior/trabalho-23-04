@@ -9,4 +9,4 @@ jobs:
       - run: echo "Iniciando automação."
       - run: echo "Automação em andamento. Por favor, aguarde."
       - run: echo "Processo concluído."
-     #Dupla: Mateus Silva Perez e Matheus de Almeida Silva
+     #Dupla: Mateus Silva Perez e Matheus de Almeida Silva.
